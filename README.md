@@ -4,6 +4,8 @@ This notebook contains nine different iterations of plots in an attempt to visua
 Example output:
 ![Pokemon Max CP (large image)](Pokemon_Max_CP_Attempt_9.png)
 
+**See [Pokemon_Max_CP_Plotting.ipynb](Pokemon_Max_CP_Plotting.ipynb) Jupyter Notebook for code.**
+
 ## Table of Contents
 * Equations - Calculating CP
 * Mining Data
