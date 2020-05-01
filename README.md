@@ -1,5 +1,5 @@
 # Plotting Pokemon Max Combat Power 
-This notebook contains nine different iterations of plots in an attempt to visualize a Pokemon's max Combat Power (CP) in [Pokemon GO](https://www.pokemongo.com/en-us/). CP represents a Pokemon's ability to perform well in battle, a higher CP generally means a Pokemon will be a better fighter. CP is calculated from a Pokemon's base stats: Attack, Defence, and Stamina (somtimes called HP). As a Pokemon levels up, it's base stats increase and as a result Combat Power also increases.
+[This notebook](Pokemon_Max_CP_Plotting.ipynb) contains nine different iterations of plots in an attempt to visualize a Pokemon's max Combat Power (CP) in [Pokemon GO](https://www.pokemongo.com/en-us/). CP represents a Pokemon's ability to perform well in battle, a higher CP generally means a Pokemon will be a better fighter. CP is calculated from a Pokemon's base stats: Attack, Defence, and Stamina (somtimes called HP). As a Pokemon levels up, it's base stats increase and as a result Combat Power also increases.
 
 Example output:
 ![Pokemon Max CP (large image)](Pokemon_Max_CP_Attempt_9.png)
